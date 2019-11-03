@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>nexus Repo Snapshot</name>
-	      <url>http://52.66.243.1:8081/repository/flipkart-proxy-snapshot/</url>
+	      <url>http://52.66.243.1:8081/repository/flipkart-snapchat/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
